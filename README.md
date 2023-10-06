@@ -46,6 +46,3 @@
 </p>
 
 <br>
-
-
-[Adam-pw](https://github.com/alexgoold)
