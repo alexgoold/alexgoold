@@ -48,8 +48,4 @@
 <br>
 
 
-<h3>Statistical Data :-</h3>
-
-
-
 [Adam-pw](https://github.com/alexgoold)
