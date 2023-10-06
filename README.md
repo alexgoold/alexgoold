@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander (Sandy) Goold</h1>
+<h1 align="center">Hi, I'm Alexander (Sandy) Goold</h1>
 <h3 align="center">Student at ITHS, Gothenburg.</h3>
 <br/>
 
