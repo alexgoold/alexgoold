@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander (Sandy) Goold</h1>
-<h3 align="center">Student at ITHS, Gothenburg.</h3>
+<h3 align="center">.NET Student at ITHS, Gothenburg.</h3>
 <br/>
 
 - 🌱 I’m currently learning C#, Typescript, .NET and React
