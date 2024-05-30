@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Alexander (Sandy) Goold</h1>
-<h3 align="center">.NET Student at ITHS, Gothenburg.</h3>
+<h3 align="center">Software Engineer @ Fore Dev, Gothenburg.</h3>
 <br/>
 
-- 🌱 I’m currently learning C#, Typescript, .NET and React
+-  I’m proficient in C#, Typescript, .NET and React
 
 - 📫 How to reach me **sandygoold@gmail.com**
 
