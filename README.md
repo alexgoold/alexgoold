@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Alexander (Sandy) Goold</h1>
-<h3 align="center">Software Engineer @ Fore Dev, Gothenburg.</h3>
 <br/>
 
 -  I’m proficient in C#, Typescript, .NET and React
